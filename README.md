@@ -1,6 +1,8 @@
 # machine-learning-for-druggable-proteins
 Machine Learning for druggable protein classifiers
 
+Note: these results are sent to publication (revision)
+
 This project is a collaboration from different institutions:
 
 - Cancer Research Group (CRG), Faculty of Medicine, Universidad de Las Américas, Quito, Ecuador
